@@ -1,0 +1,6 @@
+# 项目排除路径
+/springcloudDemo/springCommon/target/
+/springcloudDemo/springConsumer/target/
+/springcloudDemo/springFeign/target/
+/springcloudDemo/springGateWay/target/
+/springcloudDemo/springProvider/target/

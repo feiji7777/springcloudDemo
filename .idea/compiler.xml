@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springCommon" />
+        <module name="springFeign" />
+        <module name="springGateWay" />
+        <module name="springConsumer" />
+        <module name="springProvider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloudDemo" target="1.7" />
+      <module name="springCommon" target="1.7" />
+      <module name="springConsumer" target="1.8" />
+      <module name="springFeign" target="1.7" />
+      <module name="springGateWay" target="1.7" />
+      <module name="springProvider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springCommon" options="-parameters" />
+      <module name="springConsumer" options="-parameters" />
+      <module name="springFeign" options="-parameters" />
+      <module name="springGateWay" options="-parameters" />
+      <module name="springProvider" options="-parameters" />
+    </option>
+  </component>
+</project>

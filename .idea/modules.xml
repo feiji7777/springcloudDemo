@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/javaWeb/javaWeb.iml" filepath="$PROJECT_DIR$/springcloudDemo/javaWeb/javaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springCommon/springCommon.iml" filepath="$PROJECT_DIR$/springcloudDemo/springCommon/springCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springConsumer/springConsumer.iml" filepath="$PROJECT_DIR$/springcloudDemo/springConsumer/springConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springFeign/springFeign.iml" filepath="$PROJECT_DIR$/springcloudDemo/springFeign/springFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springGateWay/springGateWay.iml" filepath="$PROJECT_DIR$/springcloudDemo/springGateWay/springGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springProvider/springProvider.iml" filepath="$PROJECT_DIR$/springcloudDemo/springProvider/springProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudDemo/springcloudDemo.iml" filepath="$PROJECT_DIR$/springcloudDemo/springcloudDemo.iml" />
+    </modules>
+  </component>
+</project>

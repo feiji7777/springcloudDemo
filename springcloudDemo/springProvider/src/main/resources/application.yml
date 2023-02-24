@@ -1,0 +1,10 @@
+server:
+  port: 9080
+
+spring:
+  application:
+    ##服务名称
+    name: provider
+  profiles:
+    active: dev
+    ##nacos服务地址
